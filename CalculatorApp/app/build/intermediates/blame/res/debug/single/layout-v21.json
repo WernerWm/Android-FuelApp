@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\werne\\Desktop\\CalculatorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\werne\\.android\\build-cache\\cedc2ccf437a9e313125ed6d8fdfbbea49d16c9b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\werne\\Desktop\\CalculatorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\werne\\.android\\build-cache\\cedc2ccf437a9e313125ed6d8fdfbbea49d16c9b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\werne\\Desktop\\CalculatorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\werne\\.android\\build-cache\\cedc2ccf437a9e313125ed6d8fdfbbea49d16c9b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\werne\\Desktop\\CalculatorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\werne\\.android\\build-cache\\cedc2ccf437a9e313125ed6d8fdfbbea49d16c9b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
